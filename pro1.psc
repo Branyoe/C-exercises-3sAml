@@ -1,3 +1,5 @@
+//Construir un programa que te solicite tu nombre y tu año de
+//nacimiento y calcule tu edad actual
 Algoritmo pro1
 	Escribir "Introuce tu nombre";
 	definir n Como Caracter;
